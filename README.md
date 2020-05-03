@@ -37,7 +37,7 @@
    network_security_config.xml
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/res/xml/network_security_config.xml
   
-  AndroidManifest.xml
+   AndroidManifest.xml
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/AndroidManifest.xml
 
 
