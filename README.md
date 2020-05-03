@@ -25,19 +25,19 @@
    AsyncHttpRequest.java(class AsyncHttpRequest extends AsyncTask<URL, Void, String>参照)
 
 ## 実際に書いたコード
-   MainActivity.java
+   MainActivity.java<br>
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/java/com/example/weather/MainActivity.java
    
-   AsyncHttpRequest.java
+   AsyncHttpRequest.java<br>
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/java/com/example/weather/AsyncHttpRequest.java
    
-   activity_main.xml
+   activity_main.xml<br>
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/res/layout/activity_main.xml
    
-   network_security_config.xml
+   network_security_config.xml<br>
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/res/xml/network_security_config.xml
   
-   AndroidManifest.xml
+   AndroidManifest.xml<br>
    https://github.com/YH0624/WeatherAPI/blob/master/Weather/Weather/app/src/main/AndroidManifest.xml
 
 
